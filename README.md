@@ -1,1 +1,3 @@
-# BUT972-info-2-R304-QualiteDev
+# Titre du projet
+
+À rédiger (Ex.3).
